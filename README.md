@@ -12,4 +12,6 @@ Semester project from the "Microprocessor and Embedded Systems". This circuit wa
 display compatible with HD44780 driver.  
 In this project I have used HD44780 display library, created by Radosław Kwiecień (http://radzio.dxp.pl/hd44780/).
 
-Names in the Polish language because of the requirements of the university project.
+Names in the Polish language because of the requirements of the university project.  
+
+Video: https://www.youtube.com/watch?v=190qPBOBbLc
